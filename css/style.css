@@ -1,0 +1,22 @@
+.main{
+    width: 150px;
+    height: 150px;
+    background-color: #281E5D;
+    float: left;
+    margin: 5px;
+}
+
+.first{
+    width: 700px;
+    min-height: 500px;
+    margin: 19px;
+    position: relative;
+    left: 145px ;
+}
+
+/* .gdvsdg{
+    width: 150px;
+    height: 150px;
+    background-color:#281E5D;
+    z-index: -1;
+} */
